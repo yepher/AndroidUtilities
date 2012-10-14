@@ -1,0 +1,11 @@
+Android Text (atext) - is a quick tool that was hacked together to make it easy
+to enter text from your regular keyboard onto the android device.
+
+Usage:
+- connect one android device to computer
+- in a terminal run atext 
+- type in terminal and text should be typed on device
+
+
+Problems to solve:
+- Very slow, especially if you are not typing a-Z,0-9

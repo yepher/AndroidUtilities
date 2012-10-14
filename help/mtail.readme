@@ -1,0 +1,29 @@
+mtail is a colorized tail. 
+
+To use on Mac:
+1. setup the rules file by copying the mtailrc to your home directory as ".mtailrc" 
+    > cp mtailrc ~/.mtailrc
+2. Pipe adb logcat to mtail:
+    > adb logcat |mtail
+    
+
+Useful notes:
+It is best if you add mtail to your path.
+
+
+
+I've tried a few other solutions but for me mtail is by far the best for my needs.
+
+Here are some other options:
+
+Colorized Logcat
+=====================
+- https://github.com/dhylands/colored-logcat
+
+
+LogCat
+=====================
+- https://github.com/YANOUSHek/LogCat 
+
+This is nice in a lot of ways but still needs a lot of features to be usful by me on a 
+day to day basis
